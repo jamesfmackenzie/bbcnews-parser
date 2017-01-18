@@ -1,4 +1,4 @@
-# theverge-parser
+# bbcnews-parser
 Parse article data from BBC News home page (http://www.bbc.co.uk/news)
 
 ## Usage
