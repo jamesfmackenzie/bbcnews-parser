@@ -1,0 +1,18 @@
+{
+  "name": "bbcnews-parser",
+  "version": "0.0.2",
+  "description": "Parse article data from BBC News home page (http://www.bbc.co.uk/news)",
+  "main": "bbcnewsparser.js",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/jasmine-node spec"
+  },
+  "author": "James Mackenzie <me@jamesfmackenzie.com> (http://jamesfmackenzie.com)",
+  "license": "ISC"
+}
