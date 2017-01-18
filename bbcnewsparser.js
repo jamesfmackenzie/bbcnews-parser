@@ -1,4 +1,4 @@
-// vergeparser.js
+// bbcnewsparser.js
 var request,
 htmlparser = require('htmlparser2');
 
