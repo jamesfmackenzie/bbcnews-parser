@@ -1,8 +1,9 @@
 {
   "name": "bbcnews-parser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parse article data from BBC News home page (http://www.bbc.co.uk/news)",
   "main": "bbcnewsparser.js",
+  "repository": "jamesfmackenzie/bbcnews-parser",
   "dependencies": {
     "htmlparser2": "^3.9.2",
     "request": "^2.79.0"
